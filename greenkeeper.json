@@ -1,0 +1,9 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "admin/package.json"
+      ]
+    }
+  }
+}
